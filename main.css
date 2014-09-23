@@ -1,0 +1,35 @@
+body {
+background-color: black;
+color: white;
+font-family: helvetica;
+}
+
+h1 {
+  color: lightblue;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  margin: 10px;
+}
+
+.attribute {
+  margin: 20px;
+}
+
+img {
+  width: 50%;
+  height: 75%;
+}
+
+hr {
+  color: white;
+  height: 0px;
+}
+
+.quote {
+  color: blue;
+}
